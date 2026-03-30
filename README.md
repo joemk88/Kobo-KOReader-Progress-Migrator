@@ -4,6 +4,10 @@ A Windows-based tool to migrate reading progress from Kobo (Nickel) into KOReade
 
 ---
 
+<img width="437" height="565" alt="Screenshot 2026-03-30 112807" src="https://github.com/user-attachments/assets/365839da-9485-47c7-be3b-cf28772ffd7c" />
+
+---
+
 ## What This Does
 
 This tool performs a one-time migration of your reading data:
